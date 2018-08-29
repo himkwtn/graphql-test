@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "contact": {
+            "phone": 1234,
+            "email": "asd@asd.com",
+            "line": "qwer"
+        },
+        "courses": [
+            "asas",
+            "adasd",
+            "dsdsds"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "contact": {
+            "phone": 1234,
+            "email": "asd@asd.com",
+            "line": "qwer"
+        },
+        "courses": [
+            "asas",
+            "adasd",
+            "dsdsds"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Hello World",
+        "contact": {
+            "phone": 1234,
+            "email": "asd@asd.com",
+            "line": "qwer"
+        },
+        "courses": [
+            "asas",
+            "adasd",
+            "dsdsds"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Big Boi",
+        "contact": {
+            "phone": 1123,
+            "email": "asd",
+            "line": "asd"
+        },
+        "courses": [
+            "asasd",
+            "asasd"
+        ]
+    }
+]
