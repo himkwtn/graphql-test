@@ -12,6 +12,7 @@
   "author": "Devan Beitel",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^10.9.3",
     "graphql-yoga": "1.16.2",
     "nodemon": "^1.18.3"
   },
